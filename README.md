@@ -30,4 +30,5 @@ http://localhost/ or http://127.0.0.1</p>
 <p>cd /var/www</p>
 <p>php vendor/bin/codecept run unit</p>
 
-<p>I did not add authentication in this application since I did not use the database. I would use Yii's build-in AuthClient which supports new visitors to register and sign in to our application using Google/Twitter/Facebook and etc... We just need to add some tables in the database to store authorization data. </p 
+<p>I did not add authentication in this application since I did not use the database. I would use Yii's build-in AuthClient which supports new visitors to register and sign in to our application using Google/Twitter/Facebook and etc... We just need to add some tables in the database to store authorization data. </p>
+<p>I also should add pagination in case if the input number is too big.</p>
