@@ -12,7 +12,7 @@ http://localhost/ or http://127.0.0.1</p>
 
 <h2>Change logs</h2>
 <p>I have update or add some files as below:</p>
-<p align="center">
+<p>
     assets/AppAsset.php<br/>
     controllers/FizzBuzzController.php<br/>
     models/GameForm.php<br/>
