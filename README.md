@@ -3,8 +3,9 @@
     <br>
 </p>
 <h2>Installation</h2>
-<p>1. git clone</a>
-<p>2. cd <folder></p>
+<p>1. git clone git@github.com:guojuan999/basic.git</a>
+<p>2. cd basic</p>
+<p>3> composer install</p>
 <p>3. run command: docker-compose up -d</p>
 <p>4. You can use your browser to access the installed Yii application with the following URL:<br/>
 http://localhost/ or http://127.0.0.1</p>
