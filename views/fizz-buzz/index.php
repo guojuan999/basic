@@ -28,9 +28,8 @@ $this->registerCssFile("/css/fizzbuzz.css");
 
             <div class="form-group">
                 <?= Html::submitButton('Submit', ['class' => 'btn btn-primary', 'name' => 'game-button']) ?>
-                <?= Html::resetButton('Reset', ['class' => 'btn btn-primary', 'name' => 'reset-button']) ?>
-            
-            </div>
+            	<a class="btn btn-primary" href="/index.php?r=fizz-buzz/">Reset</a>
+	    </div>
 
             <?php ActiveForm::end(); ?>
 
